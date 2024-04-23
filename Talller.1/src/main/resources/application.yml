@@ -1,8 +1,0 @@
-spring:
-  datasource:
-    url: jdbc:mysql://localhost:3306/taller.1
-    username: root
-    password: Osoted12.
-  jpa:
-    hibernate:
-      ddl-auto: update
